@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Cake_o2: !collectBlocks(\"oak_log\", 10)"
+    },
+    {
+        "role": "assistant",
+        "content": "Alright, gotta get those oak logs. !collectBlocks(\"oak_log\", 10)"
+    }
+]

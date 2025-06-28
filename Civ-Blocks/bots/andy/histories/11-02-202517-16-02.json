@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "Code output:\nCould not find any dark_oak_log in 5 blocks.\n"
+    },
+    {
+        "role": "assistant",
+        "content": "I guess it's not nearby after all! Let me try to move away from here and see if I can find some... !moveAway(10)"
+    },
+    {
+        "role": "system",
+        "content": "Recent behaviors log: \n\n"
+    },
+    {
+        "role": "system",
+        "content": "You are an intelligent mindcraft bot in minecraft that needs to give a command and the necessary parameters to realise the given action, use the command most appropriate for the action while taking into account the context and giving the correct parameters for the commandThis is the action you need to perform: \nACTION: Look for food in your inventory\n\n__CONTEXT__\n\nSTATUS: \n\nSTATS\n- Position: x: 141.30, y: 60.00, z: -203.55\n- Health: 20 / 20\n- Hunger: 20 / 20\n- Gamemode: survival\n- Biome: dark_forest\n- Weather: Rain\n- Time: Afternoon\n\nINVENTORY\n- wooden_pickaxe: 9\n- dark_oak_log: 1\n- stick: 62\n- porkchop: 5\n- flint: 2\n- mutton: 1\n- pig_spawn_egg: 1\n- coal: 1\n- granite: 4\n- andesite: 12\n- apple: 5\n- sand: 3\n- poppy: 1\n- egg: 1\n- birch_log: 21\n- oak_sapling: 12\n- birch_door: 5\n- chicken: 6\n- mossy_cobblestone: 1\n- wheat_seeds: 1\n- gold_ingot: 1\n- birch_button: 19\n- feather: 7\n- netherite_sword: 1\n- cobblestone: 5\n- gravel: 2\nWEARING: None\n\nCRAFTABLE_ITEMS\n- polished_granite\n- polished_andesite\n- birch_planks\n- dark_oak_planks\n- birch_wood\n- torch\n- lever\n- red_dye\n- gold_nugget\n\nNEARBY_ENTITIES: none\n\nVISION: \n\n\nSIMILAR MEMORIES: \n"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm feeling a bit peckish! Let me see if I have any food in my inventory... !collectItems('porkchop', 1)"
+    }
+]

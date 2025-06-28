@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Cake_o2: !craftRecipe(\"oak_planks\", 1)"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "role": "system",
+        "content": "Command !newAction was given 0 args, but requires 1 args."
+    },
+    {
+        "role": "assistant",
+        "content": "!goToBlock('dark_oak_log', 10)"
+    },
+    {
+        "role": "system",
+        "content": "Command !goToBlock was given 2 args, but requires 3 args."
+    },
+    {
+        "role": "assistant",
+        "content": "Let me try again. To go to the nearest dark_oak_log block, I'll specify the closeness and search range. Here's my attempt:\n\n!goToBlock('dark_oak_log', 5, 10)"
+    },
+    {
+        "role": "system",
+        "content": "Code output:\nCould not find any dark_oak_log in 10 blocks.\n"
+    },
+    {
+        "role": "assistant",
+        "content": "!moveAway(5)"
+    }
+]

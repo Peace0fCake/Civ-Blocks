@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "Command !rememberHere was given 0 args, but requires 1 args."
+    },
+    {
+        "role": "assistant",
+        "content": "Let me try again! I remember the issue is that I don't have enough resources to craft sticks. I'll just give a name for this location so I can come back later.\n\nCommand: !rememberHere(\"Stickless Spot\")"
+    },
+    {
+        "role": "system",
+        "content": "Location saved as \"Stickless Spot\"."
+    },
+    {
+        "role": "assistant",
+        "content": "I've successfully saved this location! Now that I have a reference point, I'll move away from here and see what's nearby.\n\nCommand: !moveAway(5)"
+    },
+    {
+        "role": "system",
+        "content": "Recent behaviors log: \n\n"
+    }
+]
